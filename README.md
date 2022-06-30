@@ -121,7 +121,7 @@
 * Udacity Machine Learning Engineer Nanodegree Programを修了
 
 ### 2014-04 - 2015-09 : ソウルドアウト株式会社
-新規顧客のリードを獲得するために[liskul](https://liskul.com/)というオウンドメディアを運用する部署にて、GAS, Salesforce API, Hubspot APIを使って業務効率化を行っていました。
+趣味でiOSアプリを作っていてコードが多少かけたので、GAS, Salesforce API, Hubspot APIを使って業務効率化を行っていました。
 
 担当業務
 * 企画
