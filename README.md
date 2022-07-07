@@ -3,7 +3,7 @@
 ## スキル
 ### 言語
 * Go（本業でここ3年ほど使用）
-* Javascript, Vue.js, node.js（副業、個人開発で使用）
+* Typescript/Javascript, Vue.js/React, node.js（副業、個人開発で使用）
 * PHP, Laravel
 * 日本語 - ネイティブ
 * 英語 - 問題なくコミュニケーションはとれるレベル, TOEIC 960点
