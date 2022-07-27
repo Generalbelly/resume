@@ -1,5 +1,7 @@
 # 職務経歴書
 
+English version is [available](resume/en/README.md)
+
 ## スキル
 ### 言語
 * Go（本業でここ3年ほど使用）
