@@ -1,6 +1,6 @@
 # 職務経歴書
 
-English version is [available](resume/en/README.md)
+English version is [available](en/README.md)
 
 ## スキル
 ### 言語
