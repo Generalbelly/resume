@@ -1,11 +1,11 @@
 # 職務経歴書
 
-English version is [available](en/README.md)
+English version is [available](en/Resume.pdf)
 
 ## スキル
 ### 言語
 * Go（本業でここ3年ほど使用）
-* Typescript/Javascript, node.js, React, Vue（副業、個人開発で使用）（副業、個人開発で使用）
+* Typescript/Javascript, Node.js, React, Vue（副業、個人開発で使用）（副業、個人開発で使用）
 * PHP, Laravel
 * 日本語 - ネイティブ
 * 英語 - 問題なくコミュニケーションはとれるレベル, TOEIC 960点
