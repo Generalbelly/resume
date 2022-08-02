@@ -54,7 +54,7 @@ English version is [available](en/Resume.pdf)
 * [LinkedIn](https://www.linkedin.com/in/nobuyoshi-shimmen-9a8b1a94/)
 
 ## 職務経歴
-### 2018/10 - 現在 : アジト株式会社
+### 2018/09 - 現在 : アジト株式会社
 創業メンバーとしてジョインし、BigQueryを最大限活用した[広告レポーティングツール](https://www.data-be.at/)をCTOと2人でイチから開発しました。  
 テックリードを務めており、ビジネスサイドとのコミュニケーションや新機能の要件定義、チーム（3-5名ほど）へのタスクの割り振り、進捗の管理等の仕事もしています。
 
