@@ -6,8 +6,8 @@ English version is [available](en/Resume.pdf)
 
 ### 言語
 
-- Go（本業でここ 3 年ほど使用）
-- Typescript/Javascript, Node.js, React, Vue（副業、個人開発で使用）（副業、個人開発で使用）
+- Go
+- Typescript/Javascript, Node.js, NextJS, React, Vue
 - PHP, Laravel
 - 日本語 - ネイティブ
 - 英語 - 問題なくコミュニケーションはとれるレベル, TOEIC 960 点
