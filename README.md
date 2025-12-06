@@ -46,12 +46,11 @@ English version is [available](en/Resume.pdf)
 ## その他エンジニアとしての自分について
 
 - 新規開発・プロダクトが好き
-  - 好きなメディア
-    - [Indie Hackers](https://www.indiehackers.com/)
-    - [Reddit の SideProject スレ](https://www.reddit.com/r/SideProject/)
-    - [Product Hunt](https://www.producthunt.com/)
-- エンジニアになった理由はサービス、事業をつくりたいから
-- 小さくてもニッチでもいいから 1 発サービスをあてたい
+  - 生成 AI の進化によって MVP が従来の何倍もの速さで作れるようになってきていると思うので最大限活かしたい
+- 困っている人を助けたい
+  - 困り事が技術で解決できる話ならできる限り頑張りたい
+- エンジニアになった理由はサービスや事業をつくりたいから
+  - お金が稼げるサービスや事業を作りたい
 
 ## Links
 
