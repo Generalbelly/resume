@@ -60,7 +60,7 @@ English version is [available](en/Resume.pdf)
 
 ## 職務経歴
 
-### 2024/07 - 2025/11 : アジト株式会社
+### 2024/10 - 2025/11 : アジト株式会社
 
 新規プロダクトの PdM 兼エンジニアとして、顧客ヒアリング、企画・開発、営業の全てを担当しております
 
@@ -87,7 +87,7 @@ English version is [available](en/Resume.pdf)
 
 - 使用技術 Typescript, PubSub, Cloud Run, Memorystore, Cloud Scheduler, BigQuery, Vertex（ベクトル検索のため）
 
-### 2023/01 - 2024/06 : アジト株式会社
+### 2023/01 - 2024/07 : アジト株式会社
 
 組織が PMM と PdM 体制になり、PdM（プロダクトマネージャー）として、ビジネスサイドとの橋渡し役を務め、基盤システムの刷新、既存機能改善、開発体制の整備を推進しました。
 
