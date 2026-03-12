@@ -6,9 +6,8 @@ Japanese version is [available](../README.md)
 
 ### Languages
 
-- Go
-- TypeScript/JavaScript, Node.js, Next.js, React, Vue
-- PHP, Laravel
+- Go, TypeScript/JavaScript, PHP, HTML/CSS, SQL
+- Frameworks: Node.js, Next.js, React, Vue, Laravel
 - Japanese - Native
 - English - Business level, TOEIC 960
 
@@ -28,20 +27,24 @@ Japanese version is [available](../README.md)
   - Cloud Monitoring
   - Cloud Logging
   - Cloud Build
-  - GitHub Actions
-  - Circle CI
-  - Docker
+  - Vertex AI
   - Firebase (personal project)
   - Cloud Functions (personal project)
 - AWS
   - EC2
   - S3
+- CI/CD
+  - GitHub Actions
+  - Circle CI
+- Other
+  - Docker
+  - Git
 
 ## Strengths
 
-Having spent most of my career at startups, I have a strong "let's just try it and build it" mentality.
-At the same time, I've learned firsthand that cutting corners on initial design and implementation leads to costly rework as a product scales, so I'm mindful of striking the right balance. (Of course, many issues only surface at scale.)
-I also recognize that sales, marketing, and customer support are all critical to getting a business on track, so I can collaborate effectively with cross-functional teams while respecting everyone's contributions.
+With a "let's just try it and build it" mentality honed over 10+ years at startups, I thrive on taking products from zero to one. I enjoy working collaboratively but can also effectively coordinate a project from start to finish independently.
+
+I've learned firsthand that cutting corners on initial design leads to costly rework at scale, so I'm mindful of striking the right balance. I also recognize that sales, marketing, and customer support are all critical to getting a business on track, so I collaborate effectively with cross-functional teams while respecting everyone's contributions.
 
 ## About Me as an Engineer
 
@@ -122,8 +125,7 @@ Projects
 
 ### 2018/09 - 2022/12 : agito, Inc. (Joined PLAID Group in Oct 2022)
 
-Joined as a founding member and built an [ad reporting tool](https://www.data-be.at/) from scratch leveraging BigQuery, serving as the CTO's right hand.
-As Tech Lead, I also handled communication with the business side, requirements definition for new features, task assignment and progress management for the team (3-5 members).
+Joined as a founding member and built an ad reporting tool (https://www.data-be.at/) from scratch leveraging BigQuery, serving as the CTO's right hand. As Tech Lead, I also handled communication with the business side, requirements definition for new features, task assignment and progress management for the team (3-5 members).
 
 Responsibilities
 
@@ -165,8 +167,7 @@ Projects
 
 ### 2021/02 - 2022/04 : ubun, Inc.
 
-Developed tools for Amazon sellers as a side project through a personal connection.
-Handled front-end, back-end, and batch processing as a full-stack developer.
+Developed tools for Amazon sellers as a side project through a personal connection. Handled front-end, back-end, and batch processing as a full-stack developer.
 
 Responsibilities
 
@@ -180,8 +181,7 @@ Team Size
 
 ### 2015/10 - 2018/07 : Techloco, Inc. (Seconded from Soldout, Inc.)
 
-Worked on the development of [brick](https://www.brick.tools/), an all-in-one marketing tool.
-Drawing from pain points I experienced during my previous production work, I proposed and developed [Site Review](https://markezine.jp/article/detail/26719), a tool that enables reviewing, commenting on, and suggesting edits to website designs directly in the browser.
+Worked on the development of brick (https://www.brick.tools/), an all-in-one marketing tool. Drawing from pain points I experienced during my previous production work, I proposed and developed Site Review (https://markezine.jp/article/detail/26719), a tool that enables reviewing, commenting on, and suggesting edits to website designs directly in the browser.
 
 Responsibilities
 
@@ -217,6 +217,6 @@ Outside of work
 
 ## Education
 
-- **Aoyama Gakuin University** - Bachelor of Business Administration (Apr 2010 - Mar 2014, Tokyo)
-- **The University of Vermont** - Concentration in Business (Aug 2012 - May 2013, Burlington, Vermont, USA)
+- **Aoyama Gakuin University** - Bachelor of Business Administration (2010/04 - 2014/03, Tokyo)
+- **The University of Vermont** - Concentration in Business (2012/08 - 2013/05, Burlington, Vermont, USA)
   - 9-month exchange program through International Partnership & Collaboration
