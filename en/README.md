@@ -65,7 +65,7 @@ I've learned firsthand that cutting corners on initial design leads to costly re
 
 ### 2024/10 - 2025/11 : agito, Inc.
 
-Serving as both PdM and engineer for a new product, handling everything from customer interviews, planning & development, to sales.
+Serving as both PdM and engineer for a new product except for sales, handling everything from customer interviews, planning & development.
 
 Responsibilities
 
