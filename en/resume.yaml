@@ -1,0 +1,303 @@
+name: Nobuyoshi Shimmen
+title: Engineer
+
+contact:
+  address_line1: "116-0013 Tokyo, Arakawa-ku"
+  address_line2: "Nishinippori 6-10-14-501"
+  phone: "070-4087-4039"
+  email: "nobuyoshi.shimmen@gmail.com"
+
+about:
+  strengths:
+    - >-
+      With a "let's just try it and build it" mentality honed over 10+ years
+      at startups, I thrive on taking products from zero to one. I enjoy working
+      collaboratively but can also effectively coordinate a project from start
+      to finish independently.
+    - >-
+      I've learned firsthand that cutting corners on initial design leads to
+      costly rework at scale, so I'm mindful of striking the right balance. I
+      also recognize that sales, marketing, and customer support are all
+      critical to getting a business on track, so I collaborate effectively with
+      cross-functional teams while respecting everyone's contributions.
+  engineer_traits:
+    - title: "I love building new products from scratch"
+      detail: >-
+        With the evolution of generative AI, MVPs can now be built many times
+        faster than before, and I want to leverage that to the fullest
+    - title: "I want to help people who are struggling"
+      detail: >-
+        If a problem can be solved with technology, I want to do everything
+        I can to help
+    - title: "I became an engineer because I want to build services and businesses"
+      detail: "I want to create services and businesses that generate revenue"
+
+links:
+  - label: Blog
+    url: https://www.tumblr.com/blog/nobuyoshi-shimmen
+  - label: GitHub
+    url: https://github.com/Generalbelly
+  - label: LinkedIn
+    url: https://www.linkedin.com/in/nobuyoshi-shimmen-9a8b1a94/
+
+skills:
+  programming:
+    proficient:
+      - Go
+      - TypeScript/JavaScript
+      - PHP
+      - HTML/CSS
+      - SQL
+    frameworks:
+      - Node.js
+      - Next.js
+      - React
+      - Vue
+      - Laravel
+  human_languages:
+    - language: Japanese
+      level: Native
+    - language: English
+      level: "Business level, TOEIC 960"
+  infrastructure:
+    gcp:
+      - Cloud Run
+      - PubSub
+      - Datastore
+      - Memorystore
+      - Cloud Scheduler
+      - GAE
+      - GCE
+      - Cloud SQL
+      - BigQuery
+      - Cloud Storage
+      - Cloud Monitoring
+      - Cloud Logging
+      - Cloud Build
+      - Vertex AI
+      - Firebase (personal project)
+      - Cloud Functions (personal project)
+    aws:
+      - EC2
+      - S3
+    ci_cd:
+      - GitHub Actions
+      - Circle CI
+    other:
+      - Docker
+      - Git
+  interests:
+    - Building new products from scratch
+    - Leveraging generative AI for rapid prototyping
+    - Spending time with family
+    - Studying fitness and working out
+
+experience:
+  - company: agito, Inc.
+    role: PdM & Engineer
+    start: "2024-10"
+    end: "2025-11"
+    location: TOKYO
+    description: >-
+      Serving as both PdM and engineer for a new product, handling everything
+      from customer interviews, planning & development, to sales.
+    responsibilities:
+      - Customer interviews
+      - Sales
+      - Support
+      - Development
+    team:
+      - Solo
+    projects:
+      - name: Creative generation tool
+        detail: >-
+          Built a system that uses generative AI to create ad banners and copy
+          from LP information
+      - name: Ad campaign search tool
+        detail: >-
+          Developed a system that enables searching internal campaigns in ways
+          not possible with the existing product
+      - name: Ad campaign simulation tool
+        detail: >-
+          Built a feature that generates simulations for new ad campaigns based
+          on historical performance data
+    tech: >-
+      TypeScript, PubSub, Cloud Run, Memorystore, Cloud Scheduler, BigQuery,
+      Vertex AI (for vector search)
+
+  - company: agito, Inc.
+    role: Product Manager
+    start: "2023-01"
+    end: "2024-07"
+    location: TOKYO
+    description: >-
+      As the organization transitioned to a PMM/PdM structure, I served as
+      Product Manager, bridging the gap between business and engineering teams
+      while driving core system renewal, feature improvements, and development
+      process optimization.
+    responsibilities:
+      - Business planning (with CEO and PMM)
+      - Product roadmap creation and management
+      - Requirements definition and prioritization
+      - Engineering team management (task assignment, progress tracking, onboarding new members)
+      - Incident response coordination with business team
+      - Feature release coordination with business team
+      - Participation in key customer onboarding
+      - Beta feature development
+    team:
+      - "Engineers: 8-10"
+      - "PMM: 1"
+      - "CS: 5-6"
+    projects:
+      - name: Core system renewal
+        detail: >-
+          While driving the renewal, leveraged the new infrastructure's
+          characteristics to enable same-day data retrieval, differentiating
+          from competitors
+      - name: Application stats & incident visibility
+        detail: Visualized ad platform data retrieval completion times
+      - name: Simplified Looker Studio report generation for users
+        detail: >-
+          Built a system using Linking API that enables instant report creation
+      - name: Customer onboarding participation
+        detail: >-
+          As engineering-side customers increasingly brought their own engineers,
+          I started participating in onboarding as the development team
+          representative
+      - name: Beta feature development
+        detail: >-
+          For features that couldn't justify full development resources but had
+          clear customer demand, I built solutions using GAS (GA4 integration,
+          AppsFlyer integration, Adjust integration, etc.)
+
+  - company: agito, Inc.
+    role: Tech Lead
+    role_note: "Joined PLAID Group in Oct 2022"
+    start: "2018-09"
+    end: "2022-12"
+    location: TOKYO
+    description: >-
+      Joined as a founding member and built an ad reporting tool
+      (https://www.data-be.at/) from scratch leveraging BigQuery, serving as
+      the CTO's right hand. As Tech Lead, I also handled communication with
+      the business side, requirements definition for new features, task
+      assignment and progress management for the team (3-5 members).
+    responsibilities:
+      - Technology selection
+      - Requirements definition
+      - System design
+      - Implementation & testing
+      - Operations & incident response
+      - Prototyping new services
+    team:
+      - "Engineers: 8-10"
+      - "Designer: 0-1"
+      - "PM/Sales: 1"
+    product_scale:
+      - "Connected ad platforms: 20"
+      - "Connected ad accounts: ~20,000"
+      - "Ad reports retrieved: ~200,000"
+    projects:
+      - name: Replacement of existing ad report collection application (migration to serverless)
+        detail: null
+        tech: Go, PubSub, Cloud Run, Datastore, Memorystore, Cloud Scheduler, BigQuery
+      - name: Prototype for industry classification from ad text
+        detail: null
+        tech: Go, PubSub, Cloud Run, Datastore
+      - name: Operation & feature development of ad report collection application
+        detail: null
+        tech: Go, PubSub, GAE, Datastore, Cloud Scheduler, BigQuery
+      - name: Data mart application for linking ad data with customer data
+        detail: null
+        tech: Go, PubSub, Cloud Run, Datastore, BigQuery
+      - name: SQL generation application for BI tools
+        detail: null
+        tech: Go, Cloud Run
+      - name: Excel report generation application
+        detail: null
+        tech: "PHP (no framework), GCE, PubSub"
+      - name: Web application (backend & frontend)
+        detail: null
+        tech: "JavaScript, Vue.js (Vuetify), PHP (Laravel), GCE"
+
+  - company: ubun, Inc.
+    role: Freelance Engineer
+    start: "2021-02"
+    end: "2022-04"
+    location: TOKYO
+    description: >-
+      Developed tools for Amazon sellers as a side project through a personal
+      connection. Handled front-end, back-end, and batch processing as a
+      full-stack developer.
+    responsibilities:
+      - Implementation & testing
+      - Operations & incident response
+    team:
+      - "Engineers: 2"
+      - "PM: 1"
+
+  - company: Techloco, Inc.
+    role: Engineer
+    role_note: "Seconded from Soldout, Inc."
+    start: "2015-10"
+    end: "2018-07"
+    location: TOKYO
+    description: >-
+      Worked on the development of brick (https://www.brick.tools/), an
+      all-in-one marketing tool. Drawing from pain points I experienced during
+      my previous production work, I proposed and developed Site Review
+      (https://markezine.jp/article/detail/26719), a tool that enables
+      reviewing, commenting on, and suggesting edits to website designs
+      directly in the browser.
+    responsibilities:
+      - Planning
+      - Requirements definition
+      - System design
+      - Implementation & testing
+      - Operations & incident response
+    team:
+      - "Engineers: 2"
+      - "PM: 1"
+    outside_work:
+      - Completed Udacity Machine Learning Engineer Nanodegree Program
+
+  - company: Soldout, Inc.
+    role: Marketing Division
+    start: "2014-04"
+    end: "2015-09"
+    location: TOKYO
+    description: >-
+      Having some coding experience from building iOS apps as a hobby, I used
+      GAS, Salesforce API, and HubSpot API to automate business workflows.
+    responsibilities:
+      - Planning
+      - Requirements definition
+      - Implementation
+      - Operations
+    outside_work:
+      - Completed Udacity iOS Engineer Nanodegree Program
+
+education:
+  - school: Aoyama Gakuin University
+    degree: Bachelor of Business Administration
+    start: "2010-04"
+    end: "2014-03"
+    location: Tokyo
+  - school: The University of Vermont
+    degree: Concentration in Business
+    start: "2012-08"
+    end: "2013-05"
+    location: "Burlington, Vermont, USA"
+    note: >-
+      9-month exchange program through International Partnership & Collaboration
+
+certificates:
+  - name: Udacity Machine Learning Engineer Nanodegree Program
+    year: "2016-2017"
+  - name: Udacity iOS Engineer Nanodegree Program
+    year: "2015"
+
+projects:
+  - url: https://www.data-be.at/
+  - url: https://markezine.jp/article/detail/26719
+  - url: https://www.brick.tools/
