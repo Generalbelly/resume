@@ -105,7 +105,7 @@ English version is [available](Resume.pdf)
 
 - 使用技術 Typescript, PubSub, Cloud Run, Memorystore, Cloud Scheduler, BigQuery, Vertex（ベクトル検索）
 
-### 2023/01 - 2024/07 : アジト株式会社
+### 2023/01 - 2024/09 : アジト株式会社
 
 組織が PMM と PdM 体制になり、PdM（プロダクトマネージャー）として、ビジネスサイドとの橋渡し役を務め、基盤システムの刷新、既存機能改善、開発体制の整備を推進しました。
 
