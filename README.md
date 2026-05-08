@@ -22,10 +22,12 @@ English version is [available](Resume.pdf) ([Google Doc](https://docs.google.com
 ### インフラ
 
 - GCP
-  - Cloud Run, PubSub, Datastore, Memorystore, Cloud Scheduler
-  - GAE, GCE, Cloud SQL, BigQuery, Cloud Storage
-  - Cloud Monitoring, Cloud Logging, Cloud Build
-  - Vertex AI（ベクトル検索）, Firebase
+  - Compute: Cloud Run, GAE, GCE
+  - Data: BigQuery, Cloud SQL, Datastore, Memorystore, Cloud Storage
+  - Messaging: PubSub, Cloud Scheduler
+  - AI/ML: Vertex AI（ベクトル検索）
+  - Observability: Cloud Monitoring, Cloud Logging, Cloud Build
+  - Other: Firebase
 - AWS
   - EC2, S3
 - CI/CD & Tools: GitHub Actions, Circle CI, Docker, Git
