@@ -70,7 +70,7 @@ English version is [available](Resume.pdf) ([Google Doc](https://docs.google.com
 - **大手小売顧客向けデータマート・ダッシュボード構築**
   - 顧客データのクエリ分析から BigQuery × Looker Studio によるダッシュボード作成まで担当し、意思決定に使えるデータ基盤を提供した
 
-### 2018/09 - 2025/11 : アジト株式会社 / テックリード・PdM
+### 2018/09 - 2025/11 : アジト株式会社 / PdM・テックリード
 
 （2022/10 プレイドグループへ参画）
 
