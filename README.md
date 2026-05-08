@@ -14,8 +14,8 @@ English version is [available](Resume.pdf)
 
 ### AI / 生成 AI
 
-- Vertex AI（ベクトル検索、Embedding）
-- Claude（Cowork / Code）、OpenAI API、LLM プロンプトエンジニアリング
+- Vertex AI（ベクトル検索）
+- Gemini API、OpenAI API、Claude（Cowork / Code）、LLM プロンプトエンジニアリング
 - 生成 AI を活用したプロダクト開発
 - Claude Code 導入・非エンジニア向け社内勉強会の主催
 
@@ -83,8 +83,8 @@ English version is [available](Resume.pdf)
 新規プロダクトの PdM 兼エンジニアとして、顧客ヒアリング・企画・開発・サポートの全てをひとりで担当。
 
 - **AI 活用クリエイティブ生成ツールの開発**
-  - LP の情報を入力するだけで広告バナー画像・テキストを自動生成するシステムを構築。Vertex AI の生成 AI モデルを活用し、クリエイティブ制作の工数を大幅に削減した
-  - 使用技術: Typescript, Cloud Run, PubSub, Memorystore, Vertex AI
+  - LP の情報を入力するだけで広告バナー画像・テキストを自動生成するシステムを構築。Gemini API / OpenAI API を活用し、クリエイティブ制作の工数を大幅に削減した
+  - 使用技術: Typescript, Cloud Run, PubSub, Memorystore, Gemini API, OpenAI API
 - **広告案件検索ツールの開発（ベクトル検索）**
   - BigQuery × Vertex AI のベクトル検索を実装し、既存システムでは不可能だった複雑な条件での案件検索を実現した
   - 使用技術: Typescript, Cloud Run, BigQuery, Vertex AI
