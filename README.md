@@ -8,7 +8,7 @@ English version is [available](Resume.pdf) ([Google Doc](https://docs.google.com
 
 - **上級**: Go, TypeScript/JavaScript, PHP, HTML/CSS, SQL
 - **中級**: Node.js
-- **初級**: Dart, Python, Swift
+- **趣味**: Dart, Python, Swift
 - 日本語 - ネイティブ
 - 英語 - ビジネスレベル（TOEIC 960 点）
 
