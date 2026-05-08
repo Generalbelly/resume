@@ -83,13 +83,13 @@ English version is [available](Resume.pdf)
 新規プロダクトの PdM 兼エンジニアとして、顧客ヒアリング・企画・開発・サポートの全てをひとりで担当。
 
 - **AI 活用クリエイティブ生成ツールの開発**
-  - LP の情報を入力するだけで広告バナー画像・テキストを自動生成するシステムを構築。Gemini API / OpenAI API を活用し、クリエイティブ制作の工数を大幅に削減した
+  - LP の情報を入力するだけで広告バナー画像・テキストを自動生成するシステムを構築
   - 使用技術: Typescript, Cloud Run, PubSub, Memorystore, Gemini API, OpenAI API
 - **広告案件検索ツールの開発（ベクトル検索）**
-  - BigQuery × Vertex AI のベクトル検索を実装し、既存システムでは不可能だった複雑な条件での案件検索を実現した
+  - BigQuery × Vertex AI のベクトル検索を実装し、既存のキーワード検索では対応できなかったセマンティック検索を実現した
   - 使用技術: Typescript, Cloud Run, BigQuery, Vertex AI
 - **広告案件シミュレーションツールの開発**
-  - 自社の過去案件のパフォーマンスデータを活用し、新規案件のシミュレーション値を算出する機能を開発。営業・プランナーの提案精度向上に直結した
+  - 自社の過去案件のパフォーマンスデータをもとに新規案件の予測値を算出するシステムを開発した
   - 使用技術: Typescript, Cloud Run, BigQuery, Cloud Scheduler
 
 #### 2023/01 - 2024/09 / テックリード・PdM
