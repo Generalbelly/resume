@@ -123,7 +123,7 @@ English version is [available](Resume.pdf) ([Google Doc](https://docs.google.com
   - 既存の GAE モノリスを Cloud Run + PubSub の非同期アーキテクチャに刷新し、スケーラビリティと運用コストの両面を改善した
   - 使用技術: Go, PubSub, Cloud Run, Datastore, Memorystore, Cloud Scheduler, BigQuery
 - **データマート構築アプリケーションの開発**
-  - 広告データと顧客独自データを紐付けるデータマート生成システムを設計・開発した
+  - 広告データと顧客の予算・KPI データを紐付けるデータマート生成システムを設計・開発した
   - 使用技術: Go, PubSub, Cloud Run, Datastore, BigQuery
 - **Web アプリケーションのフルスタック開発**
   - BI ツール用 SQL 生成・Excel レポート生成アプリをフルスタックで開発した
