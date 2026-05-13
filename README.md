@@ -68,8 +68,10 @@ English version is [available](Resume.pdf) ([Google Doc](https://docs.google.com
 
 - **広告の当日データ取得 POC（本番移行確定・他顧客へ展開提案中）**
   - 既存機能では前日分（T-1）までしか取得できなかった広告データを当日中に取得できる仕組みを、有料課金を前提として、特定顧客・PMM と三者で要件を詰めて検証。本番移行が確定し、PMM からは今後の差別化ポイントと評価されており、他顧客への展開を提案中
+  - 使用技術: BigQuery, Looker Studio
 - **大手小売顧客向けデータマート・ダッシュボード構築（BQ スキャン量 22.8% 削減）**
   - クエリコスト増大という課題に対し、BigQuery にデータマートを構築し Looker Studio ダッシュボードを作成。BQ スキャン量を 22.8% 削減した
+  - 使用技術: BigQuery, Looker Studio
 
 #### 社内 AI 活用推進・非エンジニア向け展開
 
@@ -89,7 +91,7 @@ English version is [available](Resume.pdf) ([Google Doc](https://docs.google.com
   - **案件検索（セマンティック検索）**: 営業が手作業で行っていた類似案件の探索を BigQuery × Vertex AI のベクトル検索で自動化。検索機能ゼロの状態から構築した
   - **案件シミュレーション**: 検索で発見した類似案件のパフォーマンスデータをもとに新規案件の予測値を算出し、営業・企画の意思決定を数値ベースで支援
   - **クリエイティブ生成**: LP URL から広告バナー画像・テキストを自動生成するシステムを構築。gpt-image-1 の登場に合わせ、画像生成 AI 向け最適プロンプトを出力する形にピボットし公開した
-  - 使用技術: Typescript, Cloud Run, PubSub, Memorystore, BigQuery, Vertex AI, Gemini API, OpenAI API
+  - 使用技術: Typescript, NodeJS, NextJS, Cloud Run, PubSub, Memorystore, BigQuery, Vertex AI, Gemini API, OpenAI API
 
 #### 2023/01 - 2024/09 / 広告レポーティングツール PdM
 
@@ -99,14 +101,17 @@ English version is [available](Resume.pdf) ([Google Doc](https://docs.google.com
 
 - **サーバーレスアーキテクチャの全媒体展開（約 40 媒体）**
   - 自ら設計したアーキテクチャをもとに、約 40 媒体へのリプレイスをリードした。アカウント登録と同時に PubSub 経由でデータ取得を即時起動する仕組みを全媒体に展開し、競合が翌日以降まで待たせるところをアカウント登録当日中にデータを提供できる優位性を確立。システム設計から移行計画の策定・進行管理まで主導した
+  - 使用技術: Go, PubSub, Cloud Run, BigQuery
 - **プロダクトロードマップの策定・管理**
   - CEO・PMM と連携してロードマップを策定し、事業戦略と開発計画の整合を維持した
 - **Looker Studio レポート出力の簡易化（レポート生成 約 30 分 → 1 クリック）**
   - Linking API を活用し、顧客が約 30 分かかっていたレポート生成をワンクリックで完了できる仕組みを構築。顧客の早期成功体験を促進し、この仕組みをアプリ本体にも展開した
+  - 使用技術: Looker Studio Linking API
 - **大手顧客のオンボーディング対応**
   - 大手顧客のオンボーディングに技術側の窓口として参加し、クライアントのエンジニアに広告データのスキーマ・取り込みスケジュール・データマートの活用方法を説明した
 - **外部サービス連携ベータ版の開発（GA4・AppsFlyer・Adjust）**
   - 各プラットフォームのデータを BQ に取り込む連携機能を Google Apps Script で実装。部分的な市場ニーズを確認できたが、開発コストとの兼ね合いから本体アプリへの組み込みは見送り。最小工数での検証にとどめつつ、営業が商談で対応媒体として訴求できる材料となった
+  - 使用技術: Google Apps Script, BigQuery
 
 #### 2018/09 - 2022/12 / 広告レポーティングツール テックリード・アーキテクチャ設計
 
