@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nobuyoshi Shimmen — Resume</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="page">
+
+  <header>
+    <div class="header-left">
+      <h1>Nobuyoshi Shimmen</h1>
+      <p class="tagline">Engineer / PdM</p>
+    </div>
+    <div class="header-right">
+      <p>nobuyoshi.shimmen@gmail.com</p>
+      <p>070-4087-4039 · Tokyo, Japan</p>
+      <p>github.com/Generalbelly</p>
+      <p>linkedin.com/in/nobuyoshi-shimmen-9a8b1a94</p>
+    </div>
+  </header>
+
+  <section>
+    <h2>Summary</h2>
+    <p class="about">Full-stack engineer and PdM with 10+ years of experience building ad-tech products from zero in startups. Takes ownership across the full product lifecycle — from customer discovery and planning to engineering and post-launch support — with business impact as the primary compass. Has served as Tech Lead for teams of 8–10 engineers and shipped multiple LLM-powered products end-to-end. Effective at bridging business strategy and technical execution.</p>
+  </section>
+
+  <section>
+    <h2>Experience</h2>
+
+    <div class="job">
+      <div class="job-header">
+        <span class="company">PLAID, Inc.</span>
+        <span class="role">PdM / Engineer</span>
+        <span class="period">Dec 2025 – Present · Tokyo</span>
+      </div>
+      <ul>
+        <li>Transitioned to PLAID, Inc. following the acquisition, continuing to own the same advertising reporting product as PdM and Engineer.</li>
+        <li>Led a paid PoC for same-day ad data acquisition with a key client and PMM, validating the upgrade from T-1 to same-day retrieval. Confirmed for production rollout; evaluated by PMM as a future differentiator and currently being proposed to additional clients.</li>
+        <li>Organized 4 weekly claude.ai workshops for 4–5 non-engineer ad operations staff, providing hands-on support for automating recurring tasks such as weekly report creation.</li>
+        <li>Built a BigQuery data mart and Looker Studio dashboards for a major retail client to address rising query costs, reducing BQ scan volume by 22.8%. <span class="tech">(BigQuery, Looker Studio)</span></li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <div class="job-header">
+        <span class="company">agito, Inc.</span>
+        <span class="role">PdM / Tech Lead</span>
+        <span class="period">Sept 2018 – Nov 2025 · Tokyo</span>
+      </div>
+
+      <p class="sub-period">2024/10 – 2025/11</p>
+      <ul>
+        <li>Owned the full lifecycle of a new AI-powered advertising product as sole engineer and PdM — from client discovery (in partnership with sales) and planning through development, release, and support. Shipped a beta of an integrated platform featuring three tools: <span class="tech">(TypeScript, Node.js, Next.js, Cloud Run, PubSub, Memorystore, BigQuery, Vertex AI, Gemini API, OpenAI API)</span>
+          <ul>
+            <li><strong>Campaign Search (Semantic):</strong> Automated the manual process of finding similar past campaigns using BigQuery × Vertex AI vector search. Built from scratch — no prior search capability existed.</li>
+            <li><strong>Campaign Simulation:</strong> Predicted performance for new campaigns based on historical data from similar campaigns, enabling data-driven decisions in sales and planning.</li>
+            <li><strong>Creative Generation:</strong> Built a system to auto-generate ad banner images and copy from landing page URLs. Pivoted to generating optimized prompts for image generation AI after the release of gpt-image-1.</li>
+          </ul>
+        </li>
+      </ul>
+
+      <p class="sub-period">2023/01 – 2024/09 · PdM</p>
+      <ul>
+        <li>As Tech Lead, led the full rollout of serverless migration across ~40 ad platforms, extending an architecture I had originally designed. Implemented a PubSub-triggered pipeline that starts data retrieval immediately upon account registration, enabling same-day data availability — where competitors required clients to wait until the following day. <span class="tech">(Go, PubSub, Cloud Run, BigQuery)</span></li>
+        <li>As PdM, defined and managed the product roadmap in collaboration with the CEO and PMM, keeping business strategy and development plans aligned. <span class="tech">(Team: 8–10 engineers, 5–6 CS)</span></li>
+        <li>Reduced report setup time from ~30 minutes to one click by building a Looker Studio Linking API integration, accelerating client time-to-value. Later expanded the same mechanism into a native feature in the core application. <span class="tech">(Looker Studio Linking API)</span></li>
+        <li>Joined onboarding sessions for enterprise clients as the technical representative, briefing their engineering teams on ad data schemas, ingestion schedules, and data mart usage.</li>
+        <li>Shipped beta integrations for GA4, AppsFlyer, and Adjust using Google Apps Script to validate market demand with minimal engineering investment. Confirmed partial demand; decided against full integration given the projected ROI. The beta serves as a sales asset, giving the team a credible "we support these platforms" talking point in deals. <span class="tech">(Google Apps Script, BigQuery)</span></li>
+      </ul>
+
+      <p class="sub-period">2018/09 – 2022/12 · Tech Lead / Architecture</p>
+      <ul>
+        <li>As a founding engineer, developed the advertising reporting platform from the ground up alongside the CTO. Joined the PLAID Group in Oct 2022.</li>
+        <li>Scaled connected ad accounts from 3,000 to 20,000 and grew daily report volume to approx. 200,000/day by resolving scalability bottlenecks through BigQuery partition design and async processing optimization.</li>
+        <li>Migrated the existing GAE monolith to a serverless Cloud Run + PubSub async architecture, improving scalability and reducing operational overhead. <span class="tech">(Go, PubSub, Cloud Run, Datastore, Memorystore, Cloud Scheduler, BigQuery)</span></li>
+        <li>Built a data mart generator to link ad data with client budget and KPI data. <span class="tech">(Go, PubSub, Cloud Run, Datastore, BigQuery)</span></li>
+        <li>Developed full-stack web applications including a SQL generator for BI tools and an Excel report generator. <span class="tech">(JavaScript, Vue.js (Vuetify), PHP (Laravel), GCE)</span></li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <div class="job-header">
+        <span class="company">ubun, inc.</span>
+        <span class="role">Freelance Engineer</span>
+        <span class="period">Feb 2021 – Apr 2022 · Tokyo</span>
+      </div>
+      <ul>
+        <li>Developed a full-stack application for Amazon sellers, handling front-end, back-end, and batch processing. <span class="tech">(Team: 2 engineers)</span></li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <div class="job-header">
+        <span class="company">TVISION Insights Inc.</span>
+        <span class="role">Freelance Engineer</span>
+        <span class="period">Jun 2018 – Aug 2018 · Tokyo</span>
+      </div>
+      <ul>
+        <li>Created an internal web application, managing time and projects independently in a remote environment.</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <div class="job-header">
+        <span class="company">Techloco, Inc.</span>
+        <span class="role">Engineer</span>
+        <span class="period">Oct 2015 – Jul 2018 · Tokyo</span>
+      </div>
+      <ul>
+        <li>Contributed to development of an all-in-one marketing tool.</li>
+        <li>Proposed and built a browser-based website design review and annotation feature.</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <div class="job-header">
+        <span class="company">Soldout, Inc.</span>
+        <span class="role">Marketing Division</span>
+        <span class="period">Apr 2014 – Sep 2015 · Tokyo</span>
+      </div>
+      <ul>
+        <li>Developed internal workflow automation tools using Google Apps Script, Salesforce API, and HubSpot API.</li>
+      </ul>
+    </div>
+  </section>
+
+  <section>
+    <h2>Education</h2>
+    <div class="job">
+      <div class="job-header">
+        <span class="company">Aoyama Gakuin University</span>
+        <span class="role">Bachelor of Business Administration</span>
+        <span class="period">Apr 2010 – Mar 2014 · Tokyo</span>
+      </div>
+    </div>
+    <div class="job">
+      <div class="job-header">
+        <span class="company">The University of Vermont</span>
+        <span class="role">Exchange Program · Business</span>
+        <span class="period">Aug 2012 – May 2013 · Burlington, VT</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="two-col">
+    <div>
+      <h2>Skills</h2>
+      <p><strong>Languages</strong></p>
+      <p>Proficient: Go, TypeScript/JavaScript, PHP, HTML/CSS, SQL</p>
+      <p>Intermediate: Node.js &nbsp;·&nbsp; Hobby: Dart, Python, Swift</p>
+      <p class="skill-gap"><strong>Infrastructure</strong></p>
+      <p>GCP: Cloud Run, GAE, GCE, BigQuery, Cloud SQL, Datastore,<br>Memorystore, PubSub, Cloud Scheduler, Vertex AI, Firebase</p>
+      <p>AWS: EC2, S3 &nbsp;·&nbsp; CI/CD: GitHub Actions, CircleCI, Docker, Git</p>
+      <p class="skill-gap"><strong>Generative AI</strong></p>
+      <p>Claude (claude.ai / Code), OpenAI API, Gemini API, Vertex AI Vector Search, LLM Prompt Engineering</p>
+      <p class="skill-gap"><strong>Human Languages</strong></p>
+      <p>Japanese (Native) · English (Business, TOEIC 960)</p>
+    </div>
+    <div>
+      <h2>Certificates</h2>
+      <p>Udacity / Machine Learning Engineer Nanodegree <span class="tech">(2016–2017)</span></p>
+      <p>Udacity / iOS Engineer Nanodegree <span class="tech">(2015)</span></p>
+    </div>
+  </section>
+
+</div>
+</body>
+</html>
