@@ -4,33 +4,31 @@ English version is [available](Resume.pdf) ([Google Doc](https://docs.google.com
 
 ## スキル
 
-### 言語（習熟度別）
+### 言語
 
-- **上級**: Go, TypeScript/JavaScript, PHP, HTML/CSS, SQL
-- **中級**: Node.js
+- **上級**: Go, TypeScript / JavaScript, PHP, SQL, HTML/CSS
 - **趣味**: Dart, Python, Swift
-- 日本語 - ネイティブ
-- 英語 - ビジネスレベル（TOEIC 960 点）
+
+### フレームワーク・ライブラリ
+
+- Next.js, Node.js, Vue.js (Vuetify), Laravel
 
 ### AI / 生成 AI
 
-- Vertex AI（ベクトル検索）
-- Gemini API、OpenAI API、Claude（Cowork / Code）、LLM プロンプトエンジニアリング
+- OpenAI API, Gemini API, Claude (claude.ai / Code), Vertex AI（ベクトル検索）, LLM プロンプトエンジニアリング
 - 生成 AI を活用したプロダクト開発
 - Claude Code 導入・非エンジニア向け社内勉強会の主催
 
 ### インフラ
 
-- GCP
-  - Compute: Cloud Run, GAE, GCE
-  - Data: BigQuery, Cloud SQL, Datastore, Memorystore, Cloud Storage
-  - Messaging: PubSub, Cloud Scheduler
-  - AI/ML: Vertex AI（ベクトル検索）
-  - Observability: Cloud Monitoring, Cloud Logging, Cloud Build
-  - Other: Firebase
-- AWS
-  - EC2, S3
-- CI/CD & Tools: GitHub Actions, Circle CI, Docker, Git
+- **GCP**: Cloud Run, GAE, GCE, BigQuery, Cloud SQL, Datastore, Memorystore, PubSub, Cloud Scheduler, Vertex AI, Firebase
+- **AWS**: EC2, S3
+- **CI/CD**: GitHub Actions, CircleCI, Docker, Git
+
+### 人間の言語
+
+- 日本語 - ネイティブ
+- 英語 - ビジネスレベル（TOEIC 960 点）
 
 ## 強み
 
