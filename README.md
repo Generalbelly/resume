@@ -48,7 +48,7 @@ English version is [available](Resume.pdf) ([Google Doc](https://docs.google.com
 - 困っている人を助けたい
   - 困り事が技術で解決できる話ならできる限り頑張りたい
 - エンジニアになった理由はサービスや事業をつくりたいから
-- 副業・自身で運営しているサービスあり
+  - 副業として自身で運営しているサービスあり
 
 ## Links
 
