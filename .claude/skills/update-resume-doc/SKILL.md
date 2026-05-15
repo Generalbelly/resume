@@ -13,12 +13,9 @@ Use this skill when the user wants to:
 - Reflect README.md changes into the Google Doc
 - Check what's currently written in the Google Doc
 
-## Document IDs
+## Document ID
 
-- **English resume (main):** `1lkghEoKXK8vqbNfuEZe2LljkRcltqW6zjfyl_qXkysM`
-- **New layout doc (experimental):** `1sJlS_5AzX3_G-2W1ZwoR3r3f28g0MAZx2gbNDldT5PU`
-
-Default target is the main doc unless the user specifies otherwise.
+- **English resume:** `1lkghEoKXK8vqbNfuEZe2LljkRcltqW6zjfyl_qXkysM`
 
 ## Read Document Content
 
