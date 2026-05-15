@@ -9,35 +9,7 @@
 
 ## Google Doc（英語版）へのアクセス
 
-GWS CLI を使って Google Docs API 経由でアクセスできる。
-
-```bash
-# ドキュメント全文を取得（プレーンテキスト）
-gws docs documents get --params '{"documentId": "1lkghEoKXK8vqbNfuEZe2LljkRcltqW6zjfyl_qXkysM"}' 2>/dev/null | python3 -c "
-import json, sys
-doc = json.load(sys.stdin)
-
-def extract_text(content):
-    lines = []
-    for block in content:
-        para = block.get('paragraph')
-        if not para:
-            tb = block.get('table')
-            if tb:
-                for row in tb.get('tableRows', []):
-                    for cell in row.get('tableCells', []):
-                        lines.extend(extract_text(cell.get('content', [])))
-            continue
-        line = ''
-        for el in para.get('elements', []):
-            text = el.get('textRun', {}).get('content', '')
-            line += text
-        lines.append(line)
-    return lines
-
-print(''.join(extract_text(doc.get('body', {}).get('content', []))))
-"
-```
+GWS CLI を使って Google Docs API 経由でアクセスできる。操作方法は `/update-resume-doc` スキルを参照。
 
 Document ID: `1lkghEoKXK8vqbNfuEZe2LljkRcltqW6zjfyl_qXkysM`
 
