@@ -4,7 +4,7 @@ English version is [available](Resume.pdf) ([Google Doc](https://docs.google.com
 
 ## スキル
 
-### 言語
+### プログラミング言語
 
 - **上級**: Go, TypeScript / JavaScript, PHP, SQL, HTML/CSS
 - **趣味**: Dart, Python, Swift
@@ -25,7 +25,7 @@ English version is [available](Resume.pdf) ([Google Doc](https://docs.google.com
 - **AWS**: EC2, S3
 - **CI/CD**: GitHub Actions, CircleCI, Docker, Git
 
-### 人間の言語
+### 言語
 
 - 日本語 - ネイティブ
 - 英語 - ビジネスレベル（TOEIC 960 点）
