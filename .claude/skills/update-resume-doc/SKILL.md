@@ -1,5 +1,5 @@
 ---
-name: Update Resume Doc
+name: update-resume-doc
 description: Read and update Nobuyoshi Shimmen's English resume Google Doc via gws CLI
 ---
 
