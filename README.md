@@ -107,6 +107,9 @@ English version is [available](Resume.pdf) ([Google Doc](https://docs.google.com
   - 使用技術: Looker Studio Linking API
 - **大手顧客のオンボーディング対応**
   - 大手顧客のオンボーディングに技術側の窓口として参加し、クライアントのエンジニアに広告データのスキーマ・取り込みスケジュール・データマートの活用方法を説明した
+- **旅行会社向け新規サイト KPI ダッシュボード構築（2024/02 - 2024/05）**
+  - 旅行会社の新規サイト立ち上げに際し、PM・セールスと三者で対応。PM が顧客との要件定義を担い、BigQuery でのデータモデリングと Looker Studio でのダッシュボード実装を担当した
+  - 使用技術: BigQuery, Looker Studio
 - **外部サービス連携ベータ版の開発（GA4・AppsFlyer・Adjust）**
   - 各プラットフォームのデータを BQ に取り込む連携機能を Google Apps Script で実装。部分的な市場ニーズを確認できたが、開発コストとの兼ね合いから本体アプリへの組み込みは見送り。最小工数での検証にとどめつつ、営業が商談で対応媒体として訴求できる材料となった
   - 使用技術: Google Apps Script, BigQuery
