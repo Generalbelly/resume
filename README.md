@@ -106,7 +106,7 @@ English version is [available](Resume.pdf) ([Google Doc](https://docs.google.com
   - CEO・PMM と連携してロードマップを策定し、事業戦略と開発計画の整合を維持した
 - **Looker Studio レポート出力の簡易化（レポート生成 約 30 分 → 1 クリック）**
   - Linking API を活用し、顧客が約 30 分かかっていたレポート生成をワンクリックで完了できる仕組みを構築。顧客の早期成功体験を促進し、この仕組みをアプリ本体にも展開した
-  - 使用技術: Looker Studio Linking API
+  - 使用技術: Google Apps Script, Looker Studio Linking API
 - **大手顧客のオンボーディング対応**
   - 大手顧客のオンボーディングに技術側の窓口として参加し、クライアントのエンジニアに広告データのスキーマ・取り込みスケジュール・データマートの活用方法を説明した
 - **外部サービス連携ベータ版の開発（GA4・AppsFlyer・Adjust）**
