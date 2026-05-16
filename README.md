@@ -13,12 +13,6 @@ English version is [available](Resume.pdf) ([Google Doc](https://docs.google.com
 
 - Next.js, Node.js, Vue.js (Vuetify), Laravel
 
-### AI / 生成 AI
-
-- OpenAI API, Gemini API, Claude (claude.ai / Code), Vertex AI（ベクトル検索）, LLM プロンプトエンジニアリング
-- 生成 AI を活用したプロダクト開発
-- Claude Code 導入・非エンジニア向け社内勉強会の主催
-
 ### インフラ
 
 - **GCP**: Cloud Run, GAE, GCE, BigQuery, Cloud SQL, Datastore, Memorystore, PubSub, Cloud Scheduler, Vertex AI, Firebase
