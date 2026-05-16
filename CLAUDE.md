@@ -7,11 +7,14 @@
 | `README.md` | 日本語職務経歴書・GitHubポートフォリオ・転職サービス記入の参照元 |
 | `Resume.pdf` | 英語職務経歴書（Google Docからエクスポート） |
 
-## Google Doc（英語版）へのアクセス
+## Google Doc へのアクセス
 
 GWS CLI を使って Google Docs API 経由でアクセスできる。操作方法は `/update-resume-doc` スキルを参照。
 
-Document ID: `1lkghEoKXK8vqbNfuEZe2LljkRcltqW6zjfyl_qXkysM`
+| 言語 | Document ID |
+|---|---|
+| 英語版 | `1lkghEoKXK8vqbNfuEZe2LljkRcltqW6zjfyl_qXkysM` |
+| 日本語版 | `1AxoYYL_iyoD5UPFFEo3wpytBcWyohLfNwmuAPAQcdYE` |
 
 ## 転職サービス
 
