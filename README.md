@@ -6,7 +6,7 @@ English version is [available](Resume.pdf) ([Google Doc](https://docs.google.com
 
 ### プログラミング言語
 
-- **業務レベル**: Go, TypeScript / JavaScript, PHP, SQL, HTML/CSS
+- **業務レベル**: Go, TypeScript, PHP, SQL, HTML/CSS
 - **趣味レベル**: Dart, Python, Swift
 
 ### フレームワーク・ライブラリ
