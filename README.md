@@ -67,7 +67,7 @@ LLM を活用した広告プロダクト開発を経験するかたわら、Clau
 
 #### 広告ステータス異常検知システム構築（社内広告代理店チーム向け）
 
-- BigQuery Scriptingで広告ステータス管理のデータマートを更新し、Google Apps Scriptで定期監視する仕組みを構築した。
+- 広告の配信漏れや新規広告の表示確認の円滑化を目的に、BigQuery Scriptingで広告ステータス管理のデータマートを更新し、Google Apps Scriptで定期監視する仕組みを構築した。
 - 今後、大手顧客向けにPOC的な形で提供される予定
 - 使用技術: BigQuery, Google Apps Script
 
