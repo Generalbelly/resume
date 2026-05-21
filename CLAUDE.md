@@ -1,12 +1,5 @@
 # Resume Project
 
-## ドキュメント構成
-
-| ファイル | 用途 |
-|---|---|
-| `README.md` | 日本語職務経歴書・GitHubポートフォリオ・転職サービス記入の参照元 |
-| `Resume.pdf` | 英語職務経歴書（Google Docからエクスポート） |
-
 ## Google Doc へのアクセス
 
 GWS CLI を使って Google Docs API 経由でアクセスできる。操作方法は `/update-resume-doc` スキルを参照。
