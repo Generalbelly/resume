@@ -1,6 +1,6 @@
 # 職務経歴書
 
-English version is [available](Resume.pdf) ([Google Doc](https://docs.google.com/document/d/1lkghEoKXK8vqbNfuEZe2LljkRcltqW6zjfyl_qXkysM/edit))
+English version is [available](https://docs.google.com/document/d/1lkghEoKXK8vqbNfuEZe2LljkRcltqW6zjfyl_qXkysM/edit) (Google Doc)
 
 ## スキル
 
