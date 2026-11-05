@@ -4,15 +4,15 @@
 
 ### プログラミング言語
 
-- Go, TypeScript, JavaScript, PHP, SQL, Google Apps Script, HTML/CSS, Dart, Python, Swift
+- Go（5年以上）, TypeScript（3〜5年）, JavaScript（5年以上）, PHP（3〜5年）, SQL（5年以上）, Google Apps Script（5年以上）, HTML/CSS, Dart, Python, Swift
 
 ### フレームワーク・ライブラリ
 
-- Next.js, Node.js, React, Vue.js (Vuetify), Laravel
+- Next.js（1〜2年）, Node.js（5年以上）, React, Vue.js (Vuetify)（3〜5年）, Laravel
 
 ### インフラ
 
-- **GCP**: Cloud Run, GAE, GCE, BigQuery, Cloud SQL, Datastore, Memorystore, PubSub, Cloud Scheduler, Cloud Storage, Vertex AI, Firebase
+- **GCP**（5年以上）: Cloud Run, GAE, GCE, BigQuery, Cloud SQL, Datastore, Memorystore, PubSub, Cloud Scheduler, Cloud Storage, Vertex AI, Firebase
 - **AWS**: EC2, S3
 - **CI/CD**: GitHub Actions, CircleCI, Docker, Git
 
